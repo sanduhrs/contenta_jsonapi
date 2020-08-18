@@ -46,9 +46,9 @@
     "drupal/consumer_image_styles": "^4.0",
     "drupal/consumers": "^1.8",
     "drupal/contentajs": "^2.0",
-    "drupal/core": "^8.8",
+    "drupal/core": "^9.0",
     "drupal/decoupled_router": "^1.1",
-    "drupal/environment_indicator": "^3.7",
+    "drupal/environment_indicator": "^4.0",
     "drupal/image_widget_crop": "^2.1",
     "drupal/inline_entity_form": "^1.0@beta",
     "drupal/jsonapi_boost": "^2.0",
@@ -63,7 +63,7 @@
     "drupal/video_embed_field": "^2.0",
     "drupal/openapi_ui": "^2.0",
     "drupal/openapi_ui_redoc": "^2.0",
-    "drupal/warmer": "^1.1"
+    "drupal/warmer": "^2.0"
   },
   "config": {
     "process-timeout": 0
